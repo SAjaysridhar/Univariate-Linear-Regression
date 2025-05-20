@@ -1,6 +1,6 @@
 
-# NAME : RISHIVARMAN R
-# REG NO : 212224100050
+# NAME : AJAY S
+# REG NO : 212224230010
 # Implementation of Univariate Linear Regression
 ## Aim:
 To implement univariate Linear Regression to fit a straight line using least squares.
